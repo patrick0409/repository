@@ -22,7 +22,7 @@ public class InventoryManager : MonoBehaviour
 	public bool bOpenOddDoor = false;
 	public bool bShoot = false;
 
-	public string[] itemArray = new string[] {"Nipper", "Rubberband", "Bottle", "BottleCap", "birdGun"};
+	public string[] itemArray = new string[] {"Nipper", "Rubberband", "Bottle", "BottleCap", "birdGun", "GaurdKey", "CabinetItem"};
 	public List<GameObject> invenList = new List<GameObject>();
 
 	void Start () 
