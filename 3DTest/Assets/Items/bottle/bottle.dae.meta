@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: 58ea58c13e47141e5b484c7d7e95d3a4
+timeCreated: 1473760421
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ID100
+    100004: ID106
+    100006: ID116
+    100008: ID124
+    100010: ID13
+    100012: ID13 1
+    100014: ID13 2
+    100016: ID13 3
+    100018: ID13 4
+    100020: ID13 5
+    100022: ID13 6
+    100024: ID13 7
+    100026: ID13 8
+    100028: ID130
+    100030: ID138
+    100032: ID144
+    100034: ID150
+    100036: ID40
+    100038: ID56
+    100040: ID62
+    100042: ID75
+    100044: ID88
+    100046: ID94
+    100048: instance_0
+    100050: instance_1
+    100052: instance_2
+    100054: instance_3
+    100056: instance_4
+    100058: instance_5
+    100060: instance_6
+    100062: instance_7
+    100064: instance_8
+    100066: instance_9
+    100068: skp_camera_Last_Saved_SketchUp_View
+    100070: Thread
+    100072: Thread 1
+    100074: Thread 2
+    100076: Thread 3
+    100078: Thread 4
+    100080: Thread 5
+    100082: Thread 6
+    100084: Thread 7
+    100086: Thread 8
+    100088: Thread 9
+    400000: //RootNode
+    400002: ID100
+    400004: ID106
+    400006: ID116
+    400008: ID124
+    400010: ID13
+    400012: ID13 1
+    400014: ID13 2
+    400016: ID13 3
+    400018: ID13 4
+    400020: ID13 5
+    400022: ID13 6
+    400024: ID13 7
+    400026: ID13 8
+    400028: ID130
+    400030: ID138
+    400032: ID144
+    400034: ID150
+    400036: ID40
+    400038: ID56
+    400040: ID62
+    400042: ID75
+    400044: ID88
+    400046: ID94
+    400048: instance_0
+    400050: instance_1
+    400052: instance_2
+    400054: instance_3
+    400056: instance_4
+    400058: instance_5
+    400060: instance_6
+    400062: instance_7
+    400064: instance_8
+    400066: instance_9
+    400068: skp_camera_Last_Saved_SketchUp_View
+    400070: Thread
+    400072: Thread 1
+    400074: Thread 2
+    400076: Thread 3
+    400078: Thread 4
+    400080: Thread 5
+    400082: Thread 6
+    400084: Thread 7
+    400086: Thread 8
+    400088: Thread 9
+    2300000: //RootNode
+    2300002: ID100
+    2300004: ID106
+    2300006: ID116
+    2300008: ID124
+    2300010: ID13
+    2300012: ID13 1
+    2300014: ID13 2
+    2300016: ID13 3
+    2300018: ID13 4
+    2300020: ID13 5
+    2300022: ID13 6
+    2300024: ID13 7
+    2300026: ID13 8
+    2300028: ID130
+    2300030: ID138
+    2300032: ID144
+    2300034: ID40
+    2300036: ID56
+    2300038: ID62
+    2300040: ID75
+    2300042: ID88
+    2300044: ID94
+    2300046: Thread
+    2300048: Thread 1
+    2300050: Thread 2
+    2300052: Thread 3
+    2300054: Thread 4
+    2300056: Thread 5
+    2300058: Thread 6
+    2300060: Thread 7
+    2300062: Thread 8
+    2300064: Thread 9
+    3300000: //RootNode
+    3300002: ID100
+    3300004: ID106
+    3300006: ID116
+    3300008: ID124
+    3300010: ID13
+    3300012: ID13 1
+    3300014: ID13 2
+    3300016: ID13 3
+    3300018: ID13 4
+    3300020: ID13 5
+    3300022: ID13 6
+    3300024: ID13 7
+    3300026: ID13 8
+    3300028: ID130
+    3300030: ID138
+    3300032: ID144
+    3300034: ID40
+    3300036: ID56
+    3300038: ID62
+    3300040: ID75
+    3300042: ID88
+    3300044: ID94
+    3300046: Thread
+    3300048: Thread 1
+    3300050: Thread 2
+    3300052: Thread 3
+    3300054: Thread 4
+    3300056: Thread 5
+    3300058: Thread 6
+    3300060: Thread 7
+    3300062: Thread 8
+    3300064: Thread 9
+    4300000: SketchUp
+    4300002: ID56
+    4300004: ID62
+    4300006: ID75
+    4300008: ID88
+    4300010: ID94
+    4300012: ID100
+    4300014: ID106
+    4300016: ID116
+    4300018: ID124
+    4300020: ID130
+    4300022: ID138
+    4300024: ID144
+    4300026: Thread
+    4300028: ID13
+    4300030: Thread
+    4300032: ID40
+    6400000: //RootNode
+    6400002: ID100
+    6400004: ID106
+    6400006: ID116
+    6400008: ID124
+    6400010: ID13
+    6400012: ID13 1
+    6400014: ID13 2
+    6400016: ID13 3
+    6400018: ID13 4
+    6400020: ID13 5
+    6400022: ID13 6
+    6400024: ID13 7
+    6400026: ID13 8
+    6400028: ID130
+    6400030: ID138
+    6400032: ID144
+    6400034: ID40
+    6400036: ID56
+    6400038: ID62
+    6400040: ID75
+    6400042: ID88
+    6400044: ID94
+    6400046: Thread
+    6400048: Thread 1
+    6400050: Thread 2
+    6400052: Thread 3
+    6400054: Thread 4
+    6400056: Thread 5
+    6400058: Thread 6
+    6400060: Thread 7
+    6400062: Thread 8
+    6400064: Thread 9
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.05
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
