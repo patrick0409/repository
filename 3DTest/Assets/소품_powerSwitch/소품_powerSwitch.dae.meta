@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: a3a8c9fac5d084825aaca3a438d355c2
+timeCreated: 1481356256
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bolthead
+    100002: bolthead 1
+    100004: bolthead 10
+    100006: bolthead 11
+    100008: bolthead 2
+    100010: bolthead 3
+    100012: bolthead 4
+    100014: bolthead 5
+    100016: bolthead 6
+    100018: bolthead 7
+    100020: bolthead 8
+    100022: bolthead 9
+    100024: Breaker_Box
+    100026: door_handle
+    100028: door_handle_2
+    100030: Electrical_rocker_throw
+    100032: Giant_Rocker_Switch
+    100034: group_0
+    100036: group_1
+    100038: group_1 1
+    100040: group_2
+    100042: group_2 1
+    100044: group_3
+    100046: group_3 1
+    100048: group_4
+    100050: group_4 1
+    100052: group_5
+    100054: group_5 1
+    100056: group_6
+    100058: group_7
+    100060: ID109
+    100062: ID122
+    100064: ID163
+    100066: ID171
+    100068: ID179
+    100070: ID226
+    100072: ID247
+    100074: ID255
+    100076: ID263
+    100078: ID271
+    100080: ID279
+    100082: ID28
+    100084: ID287
+    100086: ID295
+    100088: ID303
+    100090: ID311
+    100092: ID319
+    100094: ID325
+    100096: ID333
+    100098: ID341
+    100100: ID349
+    100102: ID357
+    100104: ID365
+    100106: ID373
+    100108: ID381
+    100110: ID389
+    100112: ID397
+    100114: ID405
+    100116: ID413
+    100118: ID421
+    100120: ID429
+    100122: ID437
+    100124: ID445
+    100126: ID453
+    100128: ID466
+    100130: ID472
+    100132: ID478
+    100134: ID482
+    100136: ID488
+    100138: ID492
+    100140: ID496
+    100142: ID71
+    100144: image_0
+    100146: image_1
+    100148: image_2
+    100150: image_3
+    100152: image_4
+    100154: image_5
+    100156: image_6
+    100158: image_7
+    100160: instance_0
+    100162: instance_1
+    100164: instance_10
+    100166: instance_11
+    100168: instance_12
+    100170: instance_13
+    100172: instance_14
+    100174: instance_15
+    100176: instance_16
+    100178: instance_2
+    100180: instance_3
+    100182: instance_4
+    100184: instance_5
+    100186: instance_6
+    100188: instance_7
+    100190: instance_8
+    100192: instance_9
+    100194: Rocker
+    100196: skp_camera_Last_Saved_SketchUp_View
+    100198: //RootNode
+    400000: bolthead
+    400002: bolthead 1
+    400004: bolthead 10
+    400006: bolthead 11
+    400008: bolthead 2
+    400010: bolthead 3
+    400012: bolthead 4
+    400014: bolthead 5
+    400016: bolthead 6
+    400018: bolthead 7
+    400020: bolthead 8
+    400022: bolthead 9
+    400024: Breaker_Box
+    400026: door_handle
+    400028: door_handle_2
+    400030: Electrical_rocker_throw
+    400032: Giant_Rocker_Switch
+    400034: group_0
+    400036: group_1
+    400038: group_1 1
+    400040: group_2
+    400042: group_2 1
+    400044: group_3
+    400046: group_3 1
+    400048: group_4
+    400050: group_4 1
+    400052: group_5
+    400054: group_5 1
+    400056: group_6
+    400058: group_7
+    400060: ID109
+    400062: ID122
+    400064: ID163
+    400066: ID171
+    400068: ID179
+    400070: ID226
+    400072: ID247
+    400074: ID255
+    400076: ID263
+    400078: ID271
+    400080: ID279
+    400082: ID28
+    400084: ID287
+    400086: ID295
+    400088: ID303
+    400090: ID311
+    400092: ID319
+    400094: ID325
+    400096: ID333
+    400098: ID341
+    400100: ID349
+    400102: ID357
+    400104: ID365
+    400106: ID373
+    400108: ID381
+    400110: ID389
+    400112: ID397
+    400114: ID405
+    400116: ID413
+    400118: ID421
+    400120: ID429
+    400122: ID437
+    400124: ID445
+    400126: ID453
+    400128: ID466
+    400130: ID472
+    400132: ID478
+    400134: ID482
+    400136: ID488
+    400138: ID492
+    400140: ID496
+    400142: ID71
+    400144: image_0
+    400146: image_1
+    400148: image_2
+    400150: image_3
+    400152: image_4
+    400154: image_5
+    400156: image_6
+    400158: image_7
+    400160: instance_0
+    400162: instance_1
+    400164: instance_10
+    400166: instance_11
+    400168: instance_12
+    400170: instance_13
+    400172: instance_14
+    400174: instance_15
+    400176: instance_16
+    400178: instance_2
+    400180: instance_3
+    400182: instance_4
+    400184: instance_5
+    400186: instance_6
+    400188: instance_7
+    400190: instance_8
+    400192: instance_9
+    400194: Rocker
+    400196: skp_camera_Last_Saved_SketchUp_View
+    400198: //RootNode
+    2300000: bolthead
+    2300002: bolthead 1
+    2300004: bolthead 10
+    2300006: bolthead 11
+    2300008: bolthead 2
+    2300010: bolthead 3
+    2300012: bolthead 4
+    2300014: bolthead 5
+    2300016: bolthead 6
+    2300018: bolthead 7
+    2300020: bolthead 8
+    2300022: bolthead 9
+    2300024: Breaker_Box
+    2300026: door_handle
+    2300028: Giant_Rocker_Switch
+    2300030: group_2
+    2300032: group_2 1
+    2300034: group_3
+    2300036: group_3 1
+    2300038: group_5
+    2300040: group_5 1
+    2300042: group_7
+    2300044: ID109
+    2300046: ID122
+    2300048: ID163
+    2300050: ID171
+    2300052: ID179
+    2300054: ID226
+    2300056: ID247
+    2300058: ID255
+    2300060: ID263
+    2300062: ID271
+    2300064: ID279
+    2300066: ID28
+    2300068: ID287
+    2300070: ID295
+    2300072: ID303
+    2300074: ID311
+    2300076: ID319
+    2300078: ID325
+    2300080: ID333
+    2300082: ID341
+    2300084: ID349
+    2300086: ID357
+    2300088: ID365
+    2300090: ID373
+    2300092: ID381
+    2300094: ID389
+    2300096: ID397
+    2300098: ID405
+    2300100: ID413
+    2300102: ID421
+    2300104: ID429
+    2300106: ID437
+    2300108: ID445
+    2300110: ID453
+    2300112: ID466
+    2300114: ID71
+    2300116: image_0
+    2300118: image_1
+    2300120: image_2
+    2300122: image_3
+    2300124: image_4
+    2300126: image_5
+    2300128: image_6
+    2300130: image_7
+    2300132: Rocker
+    3300000: bolthead
+    3300002: bolthead 1
+    3300004: bolthead 10
+    3300006: bolthead 11
+    3300008: bolthead 2
+    3300010: bolthead 3
+    3300012: bolthead 4
+    3300014: bolthead 5
+    3300016: bolthead 6
+    3300018: bolthead 7
+    3300020: bolthead 8
+    3300022: bolthead 9
+    3300024: Breaker_Box
+    3300026: door_handle
+    3300028: Giant_Rocker_Switch
+    3300030: group_2
+    3300032: group_2 1
+    3300034: group_3
+    3300036: group_3 1
+    3300038: group_5
+    3300040: group_5 1
+    3300042: group_7
+    3300044: ID109
+    3300046: ID122
+    3300048: ID163
+    3300050: ID171
+    3300052: ID179
+    3300054: ID226
+    3300056: ID247
+    3300058: ID255
+    3300060: ID263
+    3300062: ID271
+    3300064: ID279
+    3300066: ID28
+    3300068: ID287
+    3300070: ID295
+    3300072: ID303
+    3300074: ID311
+    3300076: ID319
+    3300078: ID325
+    3300080: ID333
+    3300082: ID341
+    3300084: ID349
+    3300086: ID357
+    3300088: ID365
+    3300090: ID373
+    3300092: ID381
+    3300094: ID389
+    3300096: ID397
+    3300098: ID405
+    3300100: ID413
+    3300102: ID421
+    3300104: ID429
+    3300106: ID437
+    3300108: ID445
+    3300110: ID453
+    3300112: ID466
+    3300114: ID71
+    3300116: image_0
+    3300118: image_1
+    3300120: image_2
+    3300122: image_3
+    3300124: image_4
+    3300126: image_5
+    3300128: image_6
+    3300130: image_7
+    3300132: Rocker
+    4300000: Breaker_Box
+    4300002: ID247
+    4300004: ID255
+    4300006: ID263
+    4300008: ID271
+    4300010: ID279
+    4300012: ID287
+    4300014: ID295
+    4300016: ID303
+    4300018: ID311
+    4300020: ID319
+    4300022: ID325
+    4300024: ID333
+    4300026: ID341
+    4300028: ID349
+    4300030: ID357
+    4300032: ID365
+    4300034: ID373
+    4300036: ID381
+    4300038: ID389
+    4300040: ID397
+    4300042: ID405
+    4300044: ID413
+    4300046: ID421
+    4300048: ID429
+    4300050: ID437
+    4300052: ID445
+    4300054: ID453
+    4300056: ID466
+    4300058: group_2
+    4300060: ID28
+    4300062: group_3
+    4300064: group_5
+    4300066: group_2
+    4300068: ID71
+    4300070: group_3
+    4300072: group_5
+    4300074: group_7
+    4300076: ID109
+    4300078: ID122
+    4300080: bolthead
+    4300082: door_handle
+    4300084: ID163
+    4300086: ID171
+    4300088: ID179
+    4300090: Giant_Rocker_Switch
+    4300092: ID226
+    4300094: Rocker
+    4300096: image_0
+    4300098: image_1
+    4300100: image_2
+    4300102: image_3
+    4300104: image_4
+    4300106: image_5
+    4300108: image_6
+    4300110: image_7
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

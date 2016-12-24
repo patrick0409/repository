@@ -1,16 +1,15 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CabinetItem.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ClickSystem.cs">
     <Files>
-      <File FileName="Assets\Scripts\InventoryManager.cs" Line="25" Column="112" />
-      <File FileName="Assets\Scripts\CabinetItem.cs" Line="11" Column="6" />
-      <File FileName="Assets\Scripts\ClickSystem.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Cabinet.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\ElevDoor.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ClickSystem.cs" Line="25" Column="27" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/JUNHO/3DTest/Assets/Scripts/GvrViewer.cs" line="69" column="1" />
+      <Breakpoint file="/Users/JUNHO/3DTest/Assets/GoogleVR/Scripts/GvrViewer.cs" line="291" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

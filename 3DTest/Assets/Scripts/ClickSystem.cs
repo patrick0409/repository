@@ -21,6 +21,8 @@ public class ClickSystem : MonoBehaviour
 	{
 		ca = Camera.main;
 		isOpenUi = false;
+		Debug.Log ("test");
+		Debug.Log ("aaafgdfgdfgdaaaaa");
 	}
 	
 	// Update is called once per frame
@@ -64,9 +66,6 @@ public class ClickSystem : MonoBehaviour
 
 			if (hit.distance <= 1.3f) {
 				hit.transform.SendMessage (RayEnter, this, SendMessageOptions.DontRequireReceiver);
-				if (Input.GetButtonDown ("JoyBtn1") || Input.GetMouseButtonDown (0)) {
-					hit.transform.SendMessage (RayClickEnter, this, SendMessageOptions.DontRequireReceiver);
-				}
 				_isHit = true;
 				if (_hitTarget != null) {
 					_hitTarget.SendMessage (RayExit, this, SendMessageOptions.DontRequireReceiver);
@@ -102,12 +101,6 @@ public class ClickSystem : MonoBehaviour
 				    && (Input.GetButtonDown ("JoyBtn1") || Input.GetMouseButtonDown (0))) {
 					hit.collider.gameObject.SetActive (false);
 					hit.transform.parent.Find ("MattressFold").gameObject.SetActive (true);
-				}
-
-				if (hit.transform.name == "MattressFold"
-					&& (Input.GetButtonDown ("JoyBtn1") || Input.GetMouseButtonDown (0))) {
-					hit.collider.gameObject.SetActive (false);
-					hit.transform.parent.Find ("Mattress").gameObject.SetActive (true);
 				}
 
 				if (!isOpenUi) {
